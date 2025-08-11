@@ -1,0 +1,25 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    /* alt alta sıralar */
+    gap: 16px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.img {
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.character {
+    font-style: italic;
+    font-size: 14px;
+}

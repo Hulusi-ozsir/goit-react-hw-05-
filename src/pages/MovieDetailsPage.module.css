@@ -1,0 +1,28 @@
+.container {
+    padding: 20px;
+}
+
+.backLink {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #1a73e8;
+}
+
+.details {
+    display: flex;
+    gap: 20px;
+}
+
+.poster {
+    width: 250px;
+    border-radius: 8px;
+}
+
+.additional {
+    margin-top: 20px;
+}
+
+.link {
+    color: #1a73e8;
+    text-decoration: underline;
+}
